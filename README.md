@@ -22,11 +22,8 @@ The analysis highlights dominant programming languages, database trends, cloud p
 - Python  
 - Pandas & NumPy  
 - Matplotlib  
-- BeautifulSoup (Web Scraping)  
-- SQLite  
-- API Data Extraction  
 - Data Cleaning & Wrangling Techniques  
-- Dashboard Visualization  
+- Dashboard Visualization (Microsoft PowerBI)
 
 ---
 
@@ -36,7 +33,6 @@ The analysis highlights dominant programming languages, database trends, cloud p
 
 - Dataset sourced from IBM platform  
 - Web scraping techniques  
-- API data extraction  
 - SQLite database integration  
 
 ### 2️⃣ Data Cleaning & Preparation
@@ -95,3 +91,14 @@ The analysis highlights dominant programming languages, database trends, cloud p
 
 This project clearly defines the modern developer stack and identifies technology shifts shaping the future of software development. It provides data-driven insights to support strategic technology investments and career planning decisions.
 
+---
+
+## 🙏 Credits
+
+- **Dataset Source:** IBM Skills Network  
+- **Dataset Link:**  
+  https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/n01PQ9pSmiRX6520flujwQ/survey-data.csv  
+
+This project uses survey data provided through the IBM Skills Network learning platform for educational and analytical purposes.
+
+Special thanks to IBM Skills Network for providing access to real-world datasets that support hands-on data analysis and visualization practice.
